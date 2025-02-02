@@ -1,0 +1,27 @@
+.denomination-item {
+    list-style-type: none;
+    width: 80px;
+    margin-bottom: 15px;
+  }
+  
+  .denomination-button {
+    background-color: #382f5a;
+    color: #d4d2db;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 15px;
+    width: 100%;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .denomination-button {
+      font-size: 24px;
+    }
+  }
+  
