@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cashwithdrawal-application/static/css/main.378f384c.css",
+    "main.js": "/cashwithdrawal-application/static/js/main.261e766c.js",
+    "static/js/146.d6f8f218.chunk.js": "/cashwithdrawal-application/static/js/146.d6f8f218.chunk.js",
+    "index.html": "/cashwithdrawal-application/index.html",
+    "main.378f384c.css.map": "/cashwithdrawal-application/static/css/main.378f384c.css.map",
+    "main.261e766c.js.map": "/cashwithdrawal-application/static/js/main.261e766c.js.map",
+    "146.d6f8f218.chunk.js.map": "/cashwithdrawal-application/static/js/146.d6f8f218.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378f384c.css",
+    "static/js/main.261e766c.js"
+  ]
+}
